@@ -1,0 +1,15 @@
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/bin/Debug/net7.0/CalcularImc
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/bin/Debug/net7.0/CalcularImc.deps.json
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/bin/Debug/net7.0/CalcularImc.runtimeconfig.json
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/bin/Debug/net7.0/CalcularImc.dll
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/bin/Debug/net7.0/CalcularImc.pdb
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/CalcularImc.csproj.AssemblyReference.cache
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/CalcularImc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/CalcularImc.AssemblyInfoInputs.cache
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/CalcularImc.AssemblyInfo.cs
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/CalcularImc.csproj.CoreCompileInputs.cache
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/CalcularImc.dll
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/refint/CalcularImc.dll
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/CalcularImc.pdb
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/CalcularImc.genruntimeconfig.cache
+/Users/renanfavero/Documents/dotnet-programs/CalcularImc/obj/Debug/net7.0/ref/CalcularImc.dll
