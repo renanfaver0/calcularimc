@@ -1,5 +1,5 @@
-# calcularimc
-Programa para calcular o IMC do usuário, mostrando o indíce dependendo do resultado do IMC.
+# calculate-imc
+Program for calculate the imc of user, showing the indexes depending of result of imc
 
-## Comando para iniciar o programa:
+## Command for initializing the program on terminal of VS Code:
 - dotnet run
